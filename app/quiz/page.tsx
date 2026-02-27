@@ -44,7 +44,7 @@ function QuizContent() {
         setLoading(false)
       })
       .catch(() => {
-        setError("Couldn't load questions. Check your API key and try again.")
+        setError("Klarte ikke å laste spørsmål. Sjekk at API-nøkkelen er satt og prøv igjen.")
         setLoading(false)
       })
   }, [topic, fetchQuestions])
@@ -72,9 +72,9 @@ function QuizContent() {
   if (!topic) {
     return (
       <div className="text-zinc-400 text-center px-4">
-        No topic provided.{" "}
+        Ingen kategori valgt.{" "}
         <button onClick={() => router.push("/")} className="text-white underline">
-          Go back
+          Gå tilbake
         </button>
       </div>
     )
@@ -84,7 +84,7 @@ function QuizContent() {
     return (
       <div className="flex flex-col items-center gap-3 text-zinc-400">
         <div className="w-6 h-6 border-2 border-zinc-600 border-t-white rounded-full animate-spin" />
-        <span className="text-sm">Generating questions on {topic}...</span>
+        <span className="text-sm">Laster spørsmål om {topic}...</span>
       </div>
     )
   }
@@ -97,7 +97,7 @@ function QuizContent() {
           onClick={() => router.push("/")}
           className="text-zinc-400 underline text-sm"
         >
-          Go back
+          Gå tilbake
         </button>
       </div>
     )
@@ -107,7 +107,7 @@ function QuizContent() {
     return (
       <div className="flex flex-col items-center gap-3 text-zinc-400">
         <div className="w-6 h-6 border-2 border-zinc-600 border-t-white rounded-full animate-spin" />
-        <span className="text-sm">Loading more questions...</span>
+        <span className="text-sm">Laster flere spørsmål...</span>
       </div>
     )
   }
@@ -133,7 +133,7 @@ export default function QuizPage() {
           onClick={() => router.push("/")}
           className="text-zinc-500 hover:text-zinc-300 transition-colors text-sm flex items-center gap-1"
         >
-          ← back
+          ← tilbake
         </button>
       </div>
 

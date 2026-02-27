@@ -1,5 +1,8 @@
 // Topics that have curated seed questions
 export const SEED_TOPICS = [
+  "norske konger",
+  "skifakta",
+  "var vikingene her òg?",
   "physics",
   "economics",
   "biology",
@@ -14,6 +17,9 @@ export const SEED_TOPICS = [
 ]
 
 export const TOPICS = [
+  "norske konger",
+  "skifakta",
+  "var vikingene her òg?",
   "physics",
   "economics",
   "biology",

@@ -72,7 +72,7 @@ export default function Flashcard({ question, onNext, index, total }: FlashcardP
         {/* Tap hint */}
         {!revealed && (
           <div className="flex items-center justify-center gap-2 text-zinc-500 text-sm mt-auto pt-2">
-            <span className="text-xs">TAP TO REVEAL</span>
+            <span className="text-xs">TRYKK FOR Å SE SVARET</span>
           </div>
         )}
       </div>
@@ -91,7 +91,7 @@ export default function Flashcard({ question, onNext, index, total }: FlashcardP
         `}
         disabled={!revealed}
       >
-        Next →
+        Neste →
       </button>
     </div>
   )

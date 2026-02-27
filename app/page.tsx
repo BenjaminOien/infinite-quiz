@@ -6,9 +6,9 @@ export default function Home() {
       <div className="text-center">
         <h1 className="text-4xl font-bold tracking-tight mb-2">infinite quiz</h1>
         <p className="text-zinc-400 text-sm leading-relaxed max-w-xs mx-auto">
-          Questions worth knowing.
+          Spørsmål du vil lære av.
           <br />
-          Answers you can reason to.
+          Svar du kan tenke deg frem til.
         </p>
       </div>
 

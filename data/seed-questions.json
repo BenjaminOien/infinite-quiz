@@ -1,5 +1,80 @@
 [
   {
+    "topic": "norske konger",
+    "question": "Hva heter kongen som samlet Norge og lovet å ikke klippe håret før det skjedde?",
+    "answer": "**Harald Hårfagre** — etter samlingen klippet han håret og fikk tilnavnet 'Hårfagre' (det vakre håret)."
+  },
+  {
+    "topic": "norske konger",
+    "question": "Hva heter den norske helgenkongen som er gravlagt under høyalteret i Nidarosdomen?",
+    "answer": "**Olav den hellige** — han ble helgenkåret bare ett år etter sin død i slaget på Stiklestad i 1030."
+  },
+  {
+    "topic": "norske konger",
+    "question": "Hva het den dansken som ble Norges første selvstendige konge etter unionsoppløsningen i 1905?",
+    "answer": "**Haakon VII** — han het egentlig prins Carl av Danmark, men tok et norsk navn da folket stemte ham inn."
+  },
+  {
+    "topic": "norske konger",
+    "question": "Hva heter kongeriket som den norske vikingen Rollo grunnla i Frankrike i år 911?",
+    "answer": "**Normandie** — navnet betyr 'nordmennenes land', og Rollos etterkommere erobret England i 1066."
+  },
+  {
+    "topic": "norske konger",
+    "question": "Hva kalles den perioden da Norge var i union med Sverige og hadde felles utenrikspolitikk?",
+    "answer": "**Unionen med Sverige** (1814–1905) — Norge hadde egen grunnlov og storting, men delte kongehuset med Sverige."
+  },
+  {
+    "topic": "skifakta",
+    "question": "Hva kalles teknikken der du bruker skøytebevegelser og frie staver i langrenn?",
+    "answer": "**Skøyting** — ble populær på 1980-tallet og revolusjonerte langrenn fullstendig som konkurranseidrett."
+  },
+  {
+    "topic": "skifakta",
+    "question": "Hva heter det tradisjonsrike norske rennet der deltakerne bærer en sekk fra Rena til Lillehammer?",
+    "answer": "**Birkebeinerrennet** — arrangeres til minne om birkebeinerne som reddet den lille kongssønnen Håkon Håkonsson i 1206."
+  },
+  {
+    "topic": "skifakta",
+    "question": "Hva kalles voksen du smører under midsonen på klassiske ski for å få feste i oppoverbakkene?",
+    "answer": "**Festevoks** — riktig valg etter temperatur og snøtype er en kunst i seg selv og kan avgjøre renn."
+  },
+  {
+    "topic": "skifakta",
+    "question": "Hva er rekorden for antall gullmedaljer Norge har vunnet i et enkelt vinter-OL?",
+    "answer": "**14 gull** — satt i Pyeongchang 2018, og er verdensrekord for flest gull per land i ett vinter-OL."
+  },
+  {
+    "topic": "skifakta",
+    "question": "Hva heter den norske skilegenden som vant 13 olympiske medaljer i skiskyting?",
+    "answer": "**Ole Einar Bjørndalen** — han er kalt 'Kongen av skiskyting' og har over 20 individuelle verdensmestertitler."
+  },
+  {
+    "topic": "var vikingene her òg?",
+    "question": "Hva heter den norrøne bosettingen på Newfoundland — det eneste bekreftede vikingstedet i Nord-Amerika?",
+    "answer": "**L'Anse aux Meadows** — etablert rundt år 1000 og oppdaget av norske Helge Ingstad i 1960. UNESCO-verdensarv."
+  },
+  {
+    "topic": "var vikingene her òg?",
+    "question": "Hva heter den norske vikingen som ga Grønland et mer fristende navn enn det fortjente?",
+    "answer": "**Erik den røde** — han kalte øya 'Grønland' strategisk for å lokke nybyggere dit etter at han selv ble landsforvist."
+  },
+  {
+    "topic": "var vikingene her òg?",
+    "question": "Hva kalles de norrøne elitesoldatene som var personlig livvakt for den bysantinske keiseren i Konstantinopel?",
+    "answer": "**Væringgarden** — norrøne krigere reiste helt til dagens Istanbul og tjenestegjorde som keiserens frykede livvakt."
+  },
+  {
+    "topic": "var vikingene her òg?",
+    "question": "Hva heter Leiv Eirikssons navn på det nordamerikanske landet han oppdaget rundt år 1000?",
+    "answer": "**Vinland** — oppkalt etter ville druer eller bær han fant der, trolig langs østkysten av dagens USA eller Canada."
+  },
+  {
+    "topic": "var vikingene her òg?",
+    "question": "Hva kalles landet vikingene koloniserte rundt 874, og som i dag har verdens eldste fungerende nasjonalforsamling?",
+    "answer": "**Island** — Alltinget ble grunnlagt i 930, og mange nordmenn flyktet dit for å slippe Harald Hårfagres styre."
+  },
+  {
     "topic": "physics",
     "question": "What do you call the minimum speed needed to escape a planet's gravity without further propulsion?",
     "answer": "**Escape velocity** — for Earth it's 11.2 km/s, regardless of the direction you launch."
