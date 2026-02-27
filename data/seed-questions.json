@@ -2,7 +2,7 @@
   {
     "topic": "norske konger",
     "question": "Hva heter kongen som samlet Norge og lovet å ikke klippe håret før det skjedde?",
-    "answer": "**Harald Hårfagre** — etter samlingen klippet han håret og fikk tilnavnet 'Hårfagre' (det vakre håret)."
+    "answer": "**Harald Hårfagre** — etter samlingen klippet han endelig håret og fikk tilnavnet 'det vakre håret'."
   },
   {
     "topic": "norske konger",
@@ -21,33 +21,33 @@
   },
   {
     "topic": "norske konger",
-    "question": "Hva kalles den perioden da Norge var i union med Sverige og hadde felles utenrikspolitikk?",
+    "question": "Hva kalles perioden da Norge var i union med Sverige og hadde felles kongehus?",
     "answer": "**Unionen med Sverige** (1814–1905) — Norge hadde egen grunnlov og storting, men delte kongehuset med Sverige."
   },
   {
     "topic": "skifakta",
     "question": "Hva kalles teknikken der du bruker skøytebevegelser og frie staver i langrenn?",
-    "answer": "**Skøyting** — ble populær på 1980-tallet og revolusjonerte langrenn fullstendig som konkurranseidrett."
+    "answer": "**Skøyting** — teknikken ble populær på 1980-tallet og revolusjonerte langrenn som konkurranseidrett."
   },
   {
     "topic": "skifakta",
     "question": "Hva heter det tradisjonsrike norske rennet der deltakerne bærer en sekk fra Rena til Lillehammer?",
-    "answer": "**Birkebeinerrennet** — arrangeres til minne om birkebeinerne som reddet den lille kongssønnen Håkon Håkonsson i 1206."
+    "answer": "**Birkebeinerrennet** — arrangeres til minne om birkebeinerne som reddet kongssønnen Håkon Håkonsson i 1206."
   },
   {
     "topic": "skifakta",
     "question": "Hva kalles voksen du smører under midsonen på klassiske ski for å få feste i oppoverbakkene?",
-    "answer": "**Festevoks** — riktig valg etter temperatur og snøtype er en kunst i seg selv og kan avgjøre renn."
+    "answer": "**Festevoks** — å velge riktig sort etter temperatur og snøtype er en kunst som kan avgjøre renn."
   },
   {
     "topic": "skifakta",
     "question": "Hva er rekorden for antall gullmedaljer Norge har vunnet i et enkelt vinter-OL?",
-    "answer": "**14 gull** — satt i Pyeongchang 2018, og er verdensrekord for flest gull per land i ett vinter-OL."
+    "answer": "**14 gull** — satt i Pyeongchang 2018, verdensrekord for flest gull per land i ett vinter-OL."
   },
   {
     "topic": "skifakta",
     "question": "Hva heter den norske skilegenden som vant 13 olympiske medaljer i skiskyting?",
-    "answer": "**Ole Einar Bjørndalen** — han er kalt 'Kongen av skiskyting' og har over 20 individuelle verdensmestertitler."
+    "answer": "**Ole Einar Bjørndalen** — kalt 'Kongen av skiskyting', med over 20 individuelle verdensmestertitler."
   },
   {
     "topic": "var vikingene her òg?",
@@ -57,17 +57,17 @@
   {
     "topic": "var vikingene her òg?",
     "question": "Hva heter den norske vikingen som ga Grønland et mer fristende navn enn det fortjente?",
-    "answer": "**Erik den røde** — han kalte øya 'Grønland' strategisk for å lokke nybyggere dit etter at han selv ble landsforvist."
+    "answer": "**Erik den røde** — han kalte øya 'Grønland' strategisk for å lokke nybyggere, etter selv å ha blitt landsforvist."
   },
   {
     "topic": "var vikingene her òg?",
     "question": "Hva kalles de norrøne elitesoldatene som var personlig livvakt for den bysantinske keiseren i Konstantinopel?",
-    "answer": "**Væringgarden** — norrøne krigere reiste helt til dagens Istanbul og tjenestegjorde som keiserens frykede livvakt."
+    "answer": "**Væringgarden** — norrøne krigere reiste helt til dagens Istanbul og tjenestegjorde som keiserens fryktede livvakt."
   },
   {
     "topic": "var vikingene her òg?",
     "question": "Hva heter Leiv Eirikssons navn på det nordamerikanske landet han oppdaget rundt år 1000?",
-    "answer": "**Vinland** — oppkalt etter ville druer eller bær han fant der, trolig langs østkysten av dagens USA eller Canada."
+    "answer": "**Vinland** — oppkalt etter ville druer eller bær han fant der, trolig langs østkysten av Canada eller USA."
   },
   {
     "topic": "var vikingene her òg?",
@@ -75,188 +75,188 @@
     "answer": "**Island** — Alltinget ble grunnlagt i 930, og mange nordmenn flyktet dit for å slippe Harald Hårfagres styre."
   },
   {
-    "topic": "physics",
-    "question": "What do you call the minimum speed needed to escape a planet's gravity without further propulsion?",
-    "answer": "**Escape velocity** — for Earth it's 11.2 km/s, regardless of the direction you launch."
+    "topic": "fysikk",
+    "question": "Hva kalles minimumshastigheten du trenger for å unnslippe en planets gravitasjon uten ekstra framdrift?",
+    "answer": "**Unnslipningshastighet** — for Jorda er det 11,2 km/s, uavhengig av hvilken retning du skyter avsted."
   },
   {
-    "topic": "physics",
-    "question": "What's the term for light stretching to longer wavelengths as its source moves away from you?",
-    "answer": "**Redshift** — it's how astronomers figured out the universe is expanding in all directions."
+    "topic": "fysikk",
+    "question": "Hva er ordet for at lys strekkes til lengre bølgelengder når kilden beveger seg bort fra deg?",
+    "answer": "**Rødforskyvning** — det er slik astronomene oppdaget at universet ekspanderer i alle retninger."
   },
   {
-    "topic": "physics",
-    "question": "What do you call the boundary around a black hole beyond which nothing — not even light — escapes?",
-    "answer": "**Event horizon** — cross it and not even information can get back out."
+    "topic": "fysikk",
+    "question": "Hva kalles grensen rundt et svart hull der ingenting — ikke engang lys — kan unnslippe?",
+    "answer": "**Hendelseshorisonten** — krysser du den, kan ikke engang informasjon komme tilbake ut."
   },
   {
-    "topic": "physics",
-    "question": "What is the name for the wobble a spinning top makes instead of falling over?",
-    "answer": "**Precession** — angular momentum turns gravity's pull sideways rather than letting it tip straight down."
+    "topic": "fysikk",
+    "question": "Hva er navnet på den vaggingen en snurrebass gjør i stedet for å falle over?",
+    "answer": "**Presesjon** — dreieimpulsen snur tyngdekraftens trekk sidelengs, slik at snurrebassen går i ring fremfor å tippe."
   },
   {
-    "topic": "physics",
-    "question": "What's the term for the scattering of light that makes the sky blue?",
-    "answer": "**Rayleigh scattering** — short blue wavelengths scatter far more than red, so the whole sky glows blue."
+    "topic": "fysikk",
+    "question": "Hva kalles lysspredningen som gjør himmelen blå og solnedganger røde?",
+    "answer": "**Rayleigh-spredning** — korte blå bølgelengder spres mye mer enn røde, så himmelen lyser blått om dagen."
   },
   {
-    "topic": "economics",
-    "question": "What do you call it when a seller knows something crucial that the buyer doesn't?",
-    "answer": "**Information asymmetry** — it's why used car markets are famously full of lemons."
+    "topic": "økonomi",
+    "question": "Hva kalles det når selgeren vet noe avgjørende som kjøperen ikke vet?",
+    "answer": "**Informasjonsasymmetri** — det er grunnen til at bruktbilmarkeder er beryktet for å være fulle av kjøretøy med skjulte feil."
   },
   {
-    "topic": "economics",
-    "question": "What's the term for a market with only one buyer, instead of one seller?",
-    "answer": "**Monopsony** — labour markets in small towns often work this way."
+    "topic": "økonomi",
+    "question": "Hva er termen for et marked med bare én kjøper, i stedet for én selger?",
+    "answer": "**Monopsoni** — arbeidsmarkeder i småsamfunn fungerer ofte slik, der én stor arbeidsgiver setter lønna."
   },
   {
-    "topic": "economics",
-    "question": "What do you call the value of the best alternative you gave up when making a choice?",
-    "answer": "**Opportunity cost** — the real price of any decision includes what you didn't choose."
+    "topic": "økonomi",
+    "question": "Hva kalles verdien av det beste alternativet du ga opp da du tok et valg?",
+    "answer": "**Alternativkostnad** — den reelle prisen på enhver beslutning inkluderer alltid det du ikke valgte."
   },
   {
-    "topic": "economics",
-    "question": "What's the name for the pricing trick where the cheap product locks you into buying expensive consumables?",
-    "answer": "**Razor-and-blade model** — sell the handle cheap, make the profit on the blades forever."
+    "topic": "økonomi",
+    "question": "Hva heter prisstrategien der det billige produktet låser deg inn i dyre forbruksvarer for alltid?",
+    "answer": "**Barberblad-modellen** — selg håndtaket billig, ta profitten på bladene. Skrivere og blekkpatroner er et klassisk eksempel."
   },
   {
-    "topic": "economics",
-    "question": "What do you call a cost that's already been paid and can't be recovered, no matter what you do next?",
-    "answer": "**Sunk cost** — rationally it shouldn't affect future decisions, but it almost always does."
+    "topic": "økonomi",
+    "question": "Hva kalles en kostnad som allerede er betalt og ikke kan gjenvinnes, uansett hva du gjør videre?",
+    "answer": "**Sunket kostnad** — rasjonelt sett burde den ikke påvirke fremtidige beslutninger, men det gjør den nesten alltid."
   },
   {
-    "topic": "biology",
-    "question": "What's the scientific term for a cell that deliberately kills itself for the good of the body?",
-    "answer": "**Apoptosis** — it's how you got fingers: cells between them deleted themselves in the womb."
+    "topic": "biologi",
+    "question": "Hva er det vitenskapelige begrepet for en celle som bevisst dreper seg selv for kroppens beste?",
+    "answer": "**Apoptose** — det er slik du fikk fingre: cellene mellom dem slettet seg selv mens du lå i livmoren."
   },
   {
-    "topic": "biology",
-    "question": "What do you call the reflex that raises your body hair when you're cold or scared?",
-    "answer": "**Piloerection** — in furry animals it fluffs the coat for warmth; on us it just makes goosebumps."
+    "topic": "biologi",
+    "question": "Hva kalles refleksen som reiser håret på kroppen når du er kald eller redd?",
+    "answer": "**Piloereksjon** — hos pelsede dyr puffer det opp pelsen for varme; på oss gir det bare gåsehud."
   },
   {
-    "topic": "biology",
-    "question": "How many bones does an adult human have?",
-    "answer": "**206** — babies start with around 270, which gradually fuse together as you grow."
+    "topic": "biologi",
+    "question": "Hvor mange bein har et voksent menneske?",
+    "answer": "**206** — babyer starter med rundt 270, som gradvis smelter sammen mens du vokser."
   },
   {
-    "topic": "biology",
-    "question": "What is the name for the organ that likely serves as a bacterial safe house after gut infections?",
-    "answer": "**The appendix** — it may repopulate the gut with good bacteria after severe diarrhoea."
+    "topic": "biologi",
+    "question": "Hva kalles organet som trolig fungerer som bakteriereservoar og fyller tarmen på nytt etter alvorlig diaré?",
+    "answer": "**Blindtarmen** — den er sannsynligvis ikke helt unyttig; den kan hjelpe tarmfloraen å komme seg etter infeksjoner."
   },
   {
-    "topic": "biology",
-    "question": "What do you call the part of the brain that predicts your own movements — which is why you can't tickle yourself?",
-    "answer": "**The cerebellum** — it cancels out sensations it caused, so self-touch never feels surprising."
+    "topic": "biologi",
+    "question": "Hva kalles hjernedelen som forutsier dine egne bevegelser — og er grunnen til at du ikke kan kile deg selv?",
+    "answer": "**Lillehjernen** — den kansellerer sansninger den selv forårsaket, så selvberøring aldri føles overraskende."
   },
   {
-    "topic": "psychology",
-    "question": "What's the term for seeking out information that confirms what you already believe?",
-    "answer": "**Confirmation bias** — one of the most documented and hardest-to-fix quirks in human reasoning."
+    "topic": "psykologi",
+    "question": "Hva er termen for å oppsøke informasjon som bekrefter det du allerede tror?",
+    "answer": "**Bekreftelsesbias** — en av de mest dokumenterte og vanskeligste kognitive skjevhetene å rette opp."
   },
   {
-    "topic": "psychology",
-    "question": "What do you call the rule that says you remember the best moment and the ending — not how long something lasted?",
-    "answer": "**The peak-end rule** — a painful procedure feels better if it ends with mild discomfort rather than cutting off at peak pain."
+    "topic": "psykologi",
+    "question": "Hva kalles regelen om at du husker det beste øyeblikket og avslutningen — ikke hvor lenge noe varte?",
+    "answer": "**Topp-slutt-regelen** — en smertefull prosedyre oppleves bedre om den slutter med mild ubehag enn å kutte ved peak-smerte."
   },
   {
-    "topic": "psychology",
-    "question": "What's the name for blaming others' mistakes on their personality while blaming your own on the situation?",
-    "answer": "**Fundamental attribution error** — we see other people's actions without context, but know all our own excuses."
+    "topic": "psykologi",
+    "question": "Hva er feilen der vi skylder andres handlinger på personligheten, men våre egne på omstendighetene?",
+    "answer": "**Fundamental attribusjonsfeil** — vi ser andres atferd uten kontekst, men kjenner alle egne unnskyldninger."
   },
   {
-    "topic": "psychology",
-    "question": "What do you call the effect where telling people your goal makes you less likely to achieve it?",
-    "answer": "**Social substitution** — your brain gets a taste of the identity reward before you've done the work."
+    "topic": "psykologi",
+    "question": "Hva kalles effekten der det å fortelle andre om målet ditt gjør deg mindre tilbøyelig til å nå det?",
+    "answer": "**Sosial substitusjon** — hjernen din får en smak av identitetsfølelsen før du har gjort selve arbeidet."
   },
   {
-    "topic": "psychology",
-    "question": "What's the term for going along with a group's opinion even though you privately disagree?",
-    "answer": "**Conformity** — Asch's experiments showed people denied obvious truths just to fit in with strangers."
+    "topic": "psykologi",
+    "question": "Hva er termen for å tilpasse seg gruppens mening selv om du privat er uenig?",
+    "answer": "**Konformitet** — Aschs eksperimenter viste at folk nektet for åpenbare sannheter bare for å passe inn med fremmede."
   },
   {
-    "topic": "mathematics",
-    "question": "What's the name for a number that can't be written as a fraction of two whole numbers?",
-    "answer": "**Irrational number** — π and √2 are classics; their decimal expansions go on forever without repeating."
+    "topic": "matematikk",
+    "question": "Hva er navnet på et tall som ikke kan skrives som en brøk av to hele tall?",
+    "answer": "**Irrasjonelt tall** — π og √2 er klassikere; desimalene går evig uten å gjenta seg."
   },
   {
-    "topic": "mathematics",
-    "question": "How many Platonic solids are there?",
-    "answer": "**Five** — tetrahedron, cube, octahedron, dodecahedron, icosahedron. The Greeks thought they mapped to the elements."
+    "topic": "matematikk",
+    "question": "Hvor mange platonske legemer finnes det?",
+    "answer": "**Fem** — tetraeder, kube, oktaeder, dodekaeder og ikosaeder. Grekerne trodde de tilsvarte naturens grunnelementer."
   },
   {
-    "topic": "mathematics",
-    "question": "What's the name for the sequence where each number is the sum of the previous two?",
-    "answer": "**Fibonacci sequence** — 1, 1, 2, 3, 5, 8... and it shows up constantly in nature."
+    "topic": "matematikk",
+    "question": "Hva heter tallrekken der hvert tall er summen av de to foregående?",
+    "answer": "**Fibonacci-rekken** — 1, 1, 2, 3, 5, 8, 13... og den dukker overraskende ofte opp i naturen."
   },
   {
-    "topic": "evolution",
-    "question": "What do you call organs that have lost their original function through evolution, like the human tailbone?",
-    "answer": "**Vestigial organs** — our wisdom teeth, ear-wiggling muscles, and palmaris longus tendon are others."
+    "topic": "evolusjon",
+    "question": "Hva kalles organer som har mistet sin opprinnelige funksjon gjennom evolusjon, som menneskehalen?",
+    "answer": "**Vestigiale organer** — visdomstenner, ørebevegelsesmuskler og håndleddssenen palmaris longus er andre eksempler."
   },
   {
-    "topic": "evolution",
-    "question": "What's the term for unrelated species independently evolving the same solution to the same problem?",
-    "answer": "**Convergent evolution** — sharks and dolphins look nearly identical despite one being a fish and the other a mammal."
+    "topic": "evolusjon",
+    "question": "Hva er termen for urelaterte arter som uavhengig utvikler samme løsning på samme problem?",
+    "answer": "**Konvergent evolusjon** — haier og delfiner ser nesten like ut, til tross for at den ene er en fisk og den andre et pattedyr."
   },
   {
-    "topic": "evolution",
-    "question": "What do you call the evolutionary strategy of helping your relatives survive even at cost to yourself?",
-    "answer": "**Kin selection** — your genes benefit when copies of them in your relatives survive and reproduce."
+    "topic": "evolusjon",
+    "question": "Hva kalles den evolusjonære strategien med å hjelpe slektninger overleve, selv på bekostning av deg selv?",
+    "answer": "**Slektskapsutvalg** — genene dine tjener på det når kopier av dem i slektningene dine overlever og reproduserer."
   },
   {
-    "topic": "chemistry",
-    "question": "What do you call atoms of the same element that have different numbers of neutrons?",
-    "answer": "**Isotopes** — carbon-14 is a famous one; its decay rate is used to date ancient organic material."
+    "topic": "kjemi",
+    "question": "Hva kalles atomer av samme grunnstoff som har ulikt antall nøytroner?",
+    "answer": "**Isotoper** — karbon-14 er et kjent eksempel; dets henfallshastighet brukes til å datere gammelt organisk materiale."
   },
   {
-    "topic": "chemistry",
-    "question": "How many elements are on the periodic table?",
-    "answer": "**118** — element 92 (uranium) is the last naturally occurring one; everything heavier is synthesised."
+    "topic": "kjemi",
+    "question": "Hvor mange grunnstoffer finnes det i periodesystemet?",
+    "answer": "**118** — grunnstoff 92 (uran) er det siste naturlig forekommende; alt tyngre er fremstilt kunstig."
   },
   {
-    "topic": "chemistry",
-    "question": "What's the only common metal that is liquid at room temperature?",
-    "answer": "**Mercury** — gallium melts just above room temperature but mercury is liquid from –39°C upward."
+    "topic": "kjemi",
+    "question": "Hva er det eneste vanlige metallet som er flytende ved romtemperatur?",
+    "answer": "**Kvikksølv** — gallium smelter rett over romtemperatur, men kvikksølv er flytende helt fra –39°C."
   },
   {
-    "topic": "philosophy",
-    "question": "What's the name of the paradox where a statement says of itself that it's false?",
-    "answer": "**The Liar's paradox** — \"This sentence is false\" is true if it's false and false if it's true."
+    "topic": "filosofi",
+    "question": "Hva er navnet på paradokset der en setning hevder om seg selv at den er usann?",
+    "answer": "**Løgnerparadokset** — 'Denne setningen er usann' er sann hvis den er usann, og usann hvis den er sann."
   },
   {
-    "topic": "philosophy",
-    "question": "What's the term for the view that only your own mind can be proven to exist?",
-    "answer": "**Solipsism** — logically hard to disprove, which is exactly what makes it annoying."
+    "topic": "filosofi",
+    "question": "Hva er termen for synet om at bare din egen bevissthet kan bevises å eksistere?",
+    "answer": "**Solipsisme** — logisk vanskelig å motbevise, noe som er akkurat det som gjør det irriterende."
   },
   {
-    "topic": "neuroscience",
-    "question": "What do you call the tiny gap between two neurons that a signal has to jump across?",
-    "answer": "**Synapse** — signals cross it chemically via neurotransmitters, not as an electrical current."
+    "topic": "nevrovitenskap",
+    "question": "Hva kalles det lille gapet mellom to nerveceller som et signal må hoppe over?",
+    "answer": "**Synapse** — signalet krysser det kjemisk via nevrotransmittere, ikke som en elektrisk strøm."
   },
   {
-    "topic": "neuroscience",
-    "question": "What's the term for the brain's ability to physically rewire itself based on experience?",
-    "answer": "**Neuroplasticity** — London taxi drivers famously grow a larger hippocampus from memorising the city's streets."
+    "topic": "nevrovitenskap",
+    "question": "Hva er termen for hjernens evne til å fysisk koble seg om basert på erfaring?",
+    "answer": "**Nevroplastisitet** — London-taxisjåfører har en målbart større hippocampus fra å memorere byens gater."
   },
   {
-    "topic": "linguistics",
-    "question": "What's the name for the theory that the language you speak shapes what thoughts you can have?",
-    "answer": "**Linguistic relativity** (or the Sapir-Whorf hypothesis) — the Hopi language famously has no tense, raising questions about how its speakers perceive time."
+    "topic": "språkvitenskap",
+    "question": "Hva er navnet på teorien om at språket du snakker former hvilke tanker du kan ha?",
+    "answer": "**Språklig relativitet** (Sapir-Whorf-hypotesen) — hopi-språket har angivelig ingen grammatisk tidsbøying."
   },
   {
-    "topic": "linguistics",
-    "question": "What do you call words that sound like what they describe, like \"buzz\" or \"splash\"?",
-    "answer": "**Onomatopoeia** — every language has them, and they're often surprisingly similar across unrelated languages."
+    "topic": "språkvitenskap",
+    "question": "Hva kalles ord som låter som det de beskriver, som 'buzz', 'plasker' eller 'krasj'?",
+    "answer": "**Onomatopoetikon** — alle språk har dem, og de er overraskende like på tvers av helt urelaterte språk."
   },
   {
-    "topic": "game theory",
-    "question": "What do you call the situation where two players both choose the worse outcome because they can't trust each other?",
-    "answer": "**Prisoner's dilemma** — two suspects who can't communicate both confess, even though silence would help them both."
+    "topic": "spillteori",
+    "question": "Hva kalles situasjonen der to spillere begge velger det dårligste utfallet fordi de ikke stoler på hverandre?",
+    "answer": "**Fangens dilemma** — to mistenkte som ikke kan kommunisere tilstår begge, selv om taushet ville hjulpet dem begge."
   },
   {
-    "topic": "game theory",
-    "question": "What's the term for a strategy that is the best response no matter what your opponent does?",
-    "answer": "**Dominant strategy** — if you have one, you should always play it, regardless of what the other side does."
+    "topic": "spillteori",
+    "question": "Hva er termen for en strategi som er det beste svaret uansett hva motstanderen gjør?",
+    "answer": "**Dominerende strategi** — har du en, bør du alltid spille den, uavhengig av hva den andre siden gjør."
   }
 ]
