@@ -1,187 +1,187 @@
 [
   {
     "topic": "physics",
-    "question": "Why does time pass slower for GPS satellites than clocks on Earth's surface?",
-    "answer": "Special relativity slows clocks moving at high speed; this nearly cancels the gravitational time dilation that speeds them up from being higher in Earth's gravity well — but speed wins slightly, so GPS clocks run slow overall."
+    "question": "What do you call the minimum speed needed to escape a planet's gravity without further propulsion?",
+    "answer": "**Escape velocity** — for Earth it's 11.2 km/s, regardless of the direction you launch."
   },
   {
     "topic": "physics",
-    "question": "Why can't you simultaneously know a particle's exact position and momentum?",
-    "answer": "Measuring position requires interacting with the particle using a wave, which inherently spreads momentum uncertainty. The finer you localize the particle, the more wavelengths (momenta) you need — it's a mathematical consequence of wave physics, not a measurement limitation."
+    "question": "What's the term for light stretching to longer wavelengths as its source moves away from you?",
+    "answer": "**Redshift** — it's how astronomers figured out the universe is expanding in all directions."
   },
   {
     "topic": "physics",
-    "question": "Why does a ball thrown upward slow down, stop, and return — but light never slows down?",
-    "answer": "Mass converts kinetic energy to potential energy as it climbs, which can be reclaimed. Light has no rest mass and no internal energy reservoir, so it cannot trade speed for height — it loses energy instead by red-shifting."
+    "question": "What do you call the boundary around a black hole beyond which nothing — not even light — escapes?",
+    "answer": "**Event horizon** — cross it and not even information can get back out."
   },
   {
     "topic": "physics",
-    "question": "Why does a gyroscope resist falling over instead of just tipping?",
-    "answer": "Gravity applies a torque on the gyroscope's axis. Because angular momentum resists direction changes, the axis turns perpendicular to the applied torque — it precesses around the vertical rather than falling."
+    "question": "What is the name for the wobble a spinning top makes instead of falling over?",
+    "answer": "**Precession** — angular momentum turns gravity's pull sideways rather than letting it tip straight down."
   },
   {
     "topic": "physics",
-    "question": "Why is the sky blue but sunsets red?",
-    "answer": "Air molecules scatter short (blue) wavelengths far more than long (red) ones. At midday, scattered blue light fills the sky; at sunset, light travels through much more atmosphere, scattering away all blue and leaving only red."
+    "question": "What's the term for the scattering of light that makes the sky blue?",
+    "answer": "**Rayleigh scattering** — short blue wavelengths scatter far more than red, so the whole sky glows blue."
   },
   {
     "topic": "economics",
-    "question": "Why can trade make both countries richer even if one produces everything more efficiently?",
-    "answer": "Comparative advantage: each country gains by specializing in what it gives up least to produce, then trading. Total output rises because specialization lets each allocate effort where its opportunity cost is lowest."
+    "question": "What do you call it when a seller knows something crucial that the buyer doesn't?",
+    "answer": "**Information asymmetry** — it's why used car markets are famously full of lemons."
   },
   {
     "topic": "economics",
-    "question": "Why do diamonds cost more than water even though water is essential for life?",
-    "answer": "Price is set by marginal utility, not total utility. Water is so abundant that one extra unit adds little value; diamonds are scarce, so the marginal unit is highly valued despite water being vastly more useful overall."
+    "question": "What's the term for a market with only one buyer, instead of one seller?",
+    "answer": "**Monopsony** — labour markets in small towns often work this way."
   },
   {
     "topic": "economics",
-    "question": "Why does adding a third irrelevant option often change which of two options people prefer?",
-    "answer": "The decoy effect: a dominated option shifts reference points, making one of the original choices look more attractive by comparison. Preferences aren't stable — they're constructed relative to available alternatives."
+    "question": "What do you call the value of the best alternative you gave up when making a choice?",
+    "answer": "**Opportunity cost** — the real price of any decision includes what you didn't choose."
   },
   {
     "topic": "economics",
-    "question": "Why do companies give away razors cheaply but charge high prices for blades?",
-    "answer": "Razor-and-blade pricing locks customers into a proprietary ecosystem. Once you own the handle, switching is costly, so the company extracts profit from the consumable. The durable good is priced as customer acquisition."
+    "question": "What's the name for the pricing trick where the cheap product locks you into buying expensive consumables?",
+    "answer": "**Razor-and-blade model** — sell the handle cheap, make the profit on the blades forever."
   },
   {
     "topic": "economics",
-    "question": "Why does rent control often cause housing shortages in the long run?",
-    "answer": "Capping rents below market price increases demand while reducing landlords' incentive to supply or maintain units. Over time, supply shrinks and quality falls — the policy helps current tenants but harms future ones."
+    "question": "What do you call a cost that's already been paid and can't be recovered, no matter what you do next?",
+    "answer": "**Sunk cost** — rationally it shouldn't affect future decisions, but it almost always does."
   },
   {
     "topic": "biology",
-    "question": "Why do humans get goosebumps when cold or scared, even though it doesn't help us?",
-    "answer": "We inherited it from furry ancestors: erecting hairs trapped insulating air and made animals look larger to predators. The piloerection reflex is still wired into our nervous system, though hairless skin makes it useless."
+    "question": "What's the scientific term for a cell that deliberately kills itself for the good of the body?",
+    "answer": "**Apoptosis** — it's how you got fingers: cells between them deleted themselves in the womb."
   },
   {
     "topic": "biology",
-    "question": "Why can't we tickle ourselves?",
-    "answer": "The cerebellum predicts and cancels the sensory consequences of self-generated touch. Tickling requires surprise; your brain already knows what your own hands will do, so it suppresses the tickle response before it registers."
+    "question": "What do you call the reflex that raises your body hair when you're cold or scared?",
+    "answer": "**Piloerection** — in furry animals it fluffs the coat for warmth; on us it just makes goosebumps."
   },
   {
     "topic": "biology",
-    "question": "Why do we yawn, and why is it contagious?",
-    "answer": "Yawning likely cools the brain by increasing blood flow and drawing in cool air. Contagious yawning activates empathy circuits — it's stronger between people who know each other, suggesting a social bonding function."
+    "question": "How many bones does an adult human have?",
+    "answer": "**206** — babies start with around 270, which gradually fuse together as you grow."
   },
   {
     "topic": "biology",
-    "question": "Why does the appendix exist if its removal has no apparent downside?",
-    "answer": "It likely serves as a bacterial reservoir to repopulate the gut after diarrheal illness. In populations with high gut-flora disruption, it may still be adaptive — its uselessness in modern medicine doesn't mean it was always useless."
+    "question": "What is the name for the organ that likely serves as a bacterial safe house after gut infections?",
+    "answer": "**The appendix** — it may repopulate the gut with good bacteria after severe diarrhoea."
   },
   {
     "topic": "biology",
-    "question": "Why do cells in your body die on schedule rather than living as long as possible?",
-    "answer": "Programmed cell death (apoptosis) removes damaged or pre-cancerous cells before they mutate further. Sacrificing individual cells protects the whole organism — a cell that refuses to die is called cancer."
+    "question": "What do you call the part of the brain that predicts your own movements — which is why you can't tickle yourself?",
+    "answer": "**The cerebellum** — it cancels out sensations it caused, so self-touch never feels surprising."
   },
   {
     "topic": "psychology",
-    "question": "Why do people remember the peak and end of an experience, not its total duration?",
-    "answer": "The peak-end rule: memory compresses experiences into two snapshots — the most intense moment and the final one. Duration is largely ignored, which is why a shorter but more pleasant ending can make an overall experience feel better."
+    "question": "What's the term for seeking out information that confirms what you already believe?",
+    "answer": "**Confirmation bias** — one of the most documented and hardest-to-fix quirks in human reasoning."
   },
   {
     "topic": "psychology",
-    "question": "Why do people conform to group beliefs even when they privately disagree?",
-    "answer": "Asch's conformity research shows that social pain from disagreement activates the same brain regions as physical pain. Conformity isn't just social pressure — it can genuinely alter perception, not just reported answers."
+    "question": "What do you call the rule that says you remember the best moment and the ending — not how long something lasted?",
+    "answer": "**The peak-end rule** — a painful procedure feels better if it ends with mild discomfort rather than cutting off at peak pain."
   },
   {
     "topic": "psychology",
-    "question": "Why does explaining a plan often reduce your motivation to execute it?",
-    "answer": "Telling others about a goal gives your brain a premature sense of identity completion. The social recognition substitutes for actual achievement, reducing the drive that would otherwise motivate follow-through."
+    "question": "What's the name for blaming others' mistakes on their personality while blaming your own on the situation?",
+    "answer": "**Fundamental attribution error** — we see other people's actions without context, but know all our own excuses."
   },
   {
     "topic": "psychology",
-    "question": "Why do people attribute others' failures to character but their own to circumstances?",
-    "answer": "Fundamental attribution error: when observing others, we see their behavior without context, so we attribute it to personality. For ourselves, we have rich access to situational pressures that explain the same behavior differently."
+    "question": "What do you call the effect where telling people your goal makes you less likely to achieve it?",
+    "answer": "**Social substitution** — your brain gets a taste of the identity reward before you've done the work."
   },
   {
     "topic": "psychology",
-    "question": "Why does being watched — even by a picture of eyes — make people behave more honestly?",
-    "answer": "Our social brains evolved in small groups where reputation mattered enormously. Cues of being observed trigger costly-reputation-management instincts, even when we consciously know no real observer is present."
+    "question": "What's the term for going along with a group's opinion even though you privately disagree?",
+    "answer": "**Conformity** — Asch's experiments showed people denied obvious truths just to fit in with strangers."
   },
   {
     "topic": "mathematics",
-    "question": "Why is 0.999... exactly equal to 1, not just approaching it?",
-    "answer": "The difference between 1 and 0.999... would need to be a positive number, but no such number exists. Any supposed gap is smaller than any real number you can name, so the difference is exactly zero."
+    "question": "What's the name for a number that can't be written as a fraction of two whole numbers?",
+    "answer": "**Irrational number** — π and √2 are classics; their decimal expansions go on forever without repeating."
   },
   {
     "topic": "mathematics",
-    "question": "Why are there more real numbers than integers, even though both sets are infinite?",
-    "answer": "Cantor's diagonal argument shows you can always construct a real number not in any countable list — so the reals are a 'larger' infinity. The integers are countably infinite; the reals are uncountably infinite."
+    "question": "How many Platonic solids are there?",
+    "answer": "**Five** — tetrahedron, cube, octahedron, dodecahedron, icosahedron. The Greeks thought they mapped to the elements."
   },
   {
     "topic": "mathematics",
-    "question": "Why can't you trisect an arbitrary angle using only a compass and straightedge?",
-    "answer": "Compass-and-straightedge constructions can only produce numbers satisfying polynomial equations of degree 2^n. Trisecting an angle requires solving a cubic — which lies outside that algebraic family entirely."
+    "question": "What's the name for the sequence where each number is the sum of the previous two?",
+    "answer": "**Fibonacci sequence** — 1, 1, 2, 3, 5, 8... and it shows up constantly in nature."
   },
   {
     "topic": "evolution",
-    "question": "Why do males of many species die after mating, rather than surviving to mate again?",
-    "answer": "If the environment is harsh or the offspring need no paternal care, evolution favors putting all energy into one explosive reproductive event. Surviving afterward offers no fitness gain, so longevity isn't selected for."
+    "question": "What do you call organs that have lost their original function through evolution, like the human tailbone?",
+    "answer": "**Vestigial organs** — our wisdom teeth, ear-wiggling muscles, and palmaris longus tendon are others."
   },
   {
     "topic": "evolution",
-    "question": "Why do humans have a blind spot in their vision that octopuses don't?",
-    "answer": "Vertebrate eyes evolved with photoreceptors pointing backward — the wiring exits through the retina, creating a hole. Cephalopod eyes evolved independently with photoreceptors forward-facing, so no such wiring gap exists."
+    "question": "What's the term for unrelated species independently evolving the same solution to the same problem?",
+    "answer": "**Convergent evolution** — sharks and dolphins look nearly identical despite one being a fish and the other a mammal."
   },
   {
     "topic": "evolution",
-    "question": "Why does altruism exist if evolution favors selfish genes?",
-    "answer": "Kin selection: helping relatives propagates shared genes even without personal reproduction. Reciprocal altruism also works in repeated-interaction environments — cooperators outcompete defectors when reputation matters."
+    "question": "What do you call the evolutionary strategy of helping your relatives survive even at cost to yourself?",
+    "answer": "**Kin selection** — your genes benefit when copies of them in your relatives survive and reproduce."
   },
   {
     "topic": "chemistry",
-    "question": "Why does ice float on water, unlike almost every other solid in its liquid?",
-    "answer": "Water molecules form a hexagonal hydrogen-bond lattice in ice that is less dense than the disordered liquid. Most substances contract on freezing; water expands — a quirk that makes aquatic life survivable in cold climates."
+    "question": "What do you call atoms of the same element that have different numbers of neutrons?",
+    "answer": "**Isotopes** — carbon-14 is a famous one; its decay rate is used to date ancient organic material."
   },
   {
     "topic": "chemistry",
-    "question": "Why does mixing alcohol and water get hot, even though no chemical bonds break or form?",
-    "answer": "Hydrogen bonds between ethanol and water molecules are stronger than the interactions within each pure liquid. Forming these new bonds releases energy as heat — a thermodynamic win without any reaction occurring."
+    "question": "How many elements are on the periodic table?",
+    "answer": "**118** — element 92 (uranium) is the last naturally occurring one; everything heavier is synthesised."
   },
   {
     "topic": "chemistry",
-    "question": "Why do noble gases almost never react with other elements?",
-    "answer": "Their outer electron shells are completely full, leaving no energetic incentive to gain, lose, or share electrons. Reactivity requires asymmetric electron arrangements — noble gases have none."
+    "question": "What's the only common metal that is liquid at room temperature?",
+    "answer": "**Mercury** — gallium melts just above room temperature but mercury is liquid from –39°C upward."
   },
   {
     "topic": "philosophy",
-    "question": "Why is it paradoxical to claim 'this statement is false'?",
-    "answer": "If the statement is true, then it correctly says it's false — contradiction. If it's false, then its claim is correct, making it true — again a contradiction. Self-referential truth claims can't be consistently assigned a truth value."
+    "question": "What's the name of the paradox where a statement says of itself that it's false?",
+    "answer": "**The Liar's paradox** — \"This sentence is false\" is true if it's false and false if it's true."
   },
   {
     "topic": "philosophy",
-    "question": "Why does knowing an action is determined by prior causes not obviously resolve whether you're free?",
-    "answer": "Compatibilists argue freedom means acting from your own reasons, not randomness — determinism doesn't prevent this. Hard determinists counter that if causes compel the act, the 'you' doing the reasoning was itself caused. The debate turns on what 'could have done otherwise' means."
+    "question": "What's the term for the view that only your own mind can be proven to exist?",
+    "answer": "**Solipsism** — logically hard to disprove, which is exactly what makes it annoying."
   },
   {
     "topic": "neuroscience",
-    "question": "Why do memories feel vivid immediately after formation but fade unless reinforced?",
-    "answer": "New memories are fragile protein networks that require repeated reactivation to consolidate into stable synaptic connections. Sleep plays a critical role — hippocampal replay during slow-wave sleep transfers memories to cortex."
+    "question": "What do you call the tiny gap between two neurons that a signal has to jump across?",
+    "answer": "**Synapse** — signals cross it chemically via neurotransmitters, not as an electrical current."
   },
   {
     "topic": "neuroscience",
-    "question": "Why does pain sometimes feel delayed after an injury?",
-    "answer": "Fast A-delta fibers carry sharp, immediate pain; slow C-fibers carry dull, aching pain that arrives seconds later. The two signals travel the same nerve but at different speeds, arriving at the brain as two distinct waves."
+    "question": "What's the term for the brain's ability to physically rewire itself based on experience?",
+    "answer": "**Neuroplasticity** — London taxi drivers famously grow a larger hippocampus from memorising the city's streets."
   },
   {
     "topic": "linguistics",
-    "question": "Why do all human languages share similar grammatical structures despite huge surface differences?",
-    "answer": "Chomsky proposed a Universal Grammar — an innate mental template constraining possible languages. Alternatively, convergent cognitive constraints (how humans process sequences, referents, events) may independently push all languages toward similar solutions."
+    "question": "What's the name for the theory that the language you speak shapes what thoughts you can have?",
+    "answer": "**Linguistic relativity** (or the Sapir-Whorf hypothesis) — the Hopi language famously has no tense, raising questions about how its speakers perceive time."
   },
   {
     "topic": "linguistics",
-    "question": "Why do children acquire language without formal instruction and despite hearing imperfect, fragmented speech?",
-    "answer": "The poverty of the stimulus: input alone is too sparse and noisy to learn language inductively. Children must bring pre-wired constraints that rule out vast grammatical hypotheses, converging on correct grammar from limited evidence."
+    "question": "What do you call words that sound like what they describe, like \"buzz\" or \"splash\"?",
+    "answer": "**Onomatopoeia** — every language has them, and they're often surprisingly similar across unrelated languages."
   },
   {
     "topic": "game theory",
-    "question": "Why do two competing firms both advertise heavily even when neither gains market share?",
-    "answer": "It's a prisoner's dilemma: each firm's best response is to advertise regardless of what the rival does, but both advertising leaves them where they started — only with higher costs. Unilateral restraint just loses market share."
+    "question": "What do you call the situation where two players both choose the worse outcome because they can't trust each other?",
+    "answer": "**Prisoner's dilemma** — two suspects who can't communicate both confess, even though silence would help them both."
   },
   {
     "topic": "game theory",
-    "question": "Why do people vote even when their individual vote is almost certain not to change the outcome?",
-    "answer": "Voting is partly expressive and partly about crossing a participation threshold. Game-theoretically, rational non-voting unravels if everyone reasons the same way — so voting equilibria are maintained by social norms and identity, not expected impact."
+    "question": "What's the term for a strategy that is the best response no matter what your opponent does?",
+    "answer": "**Dominant strategy** — if you have one, you should always play it, regardless of what the other side does."
   }
 ]

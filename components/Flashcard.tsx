@@ -3,6 +3,21 @@
 import { useState } from "react"
 import { Question } from "@/types"
 
+function renderAnswer(text: string) {
+  // Split on **...** and render bold spans
+  const parts = text.split(/(\*\*[^*]+\*\*)/)
+  return parts.map((part, i) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return (
+        <span key={i} className="font-bold text-white text-xl">
+          {part.slice(2, -2)}
+        </span>
+      )
+    }
+    return <span key={i}>{part}</span>
+  })
+}
+
 interface FlashcardProps {
   question: Question
   onNext: () => void
@@ -51,7 +66,7 @@ export default function Flashcard({ question, onNext, index, total }: FlashcardP
             ${revealed ? "max-h-96 opacity-100" : "max-h-0 opacity-0"}
           `}
         >
-          <p className="text-zinc-300 leading-relaxed">{question.answer}</p>
+          <p className="text-zinc-300 leading-relaxed">{renderAnswer(question.answer)}</p>
         </div>
 
         {/* Tap hint */}
