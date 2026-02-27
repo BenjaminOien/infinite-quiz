@@ -100,27 +100,27 @@
     "answer": "**Rayleigh-spredning** — korte blå bølgelengder spres mye mer enn røde, så himmelen lyser blått om dagen."
   },
   {
-    "topic": "økonomi",
+    "topic": "samfunnsøkonomi",
     "question": "Hva kalles det når selgeren vet noe avgjørende som kjøperen ikke vet?",
     "answer": "**Informasjonsasymmetri** — det er grunnen til at bruktbilmarkeder er beryktet for å være fulle av kjøretøy med skjulte feil."
   },
   {
-    "topic": "økonomi",
+    "topic": "samfunnsøkonomi",
     "question": "Hva er termen for et marked med bare én kjøper, i stedet for én selger?",
     "answer": "**Monopsoni** — arbeidsmarkeder i småsamfunn fungerer ofte slik, der én stor arbeidsgiver setter lønna."
   },
   {
-    "topic": "økonomi",
+    "topic": "samfunnsøkonomi",
     "question": "Hva kalles verdien av det beste alternativet du ga opp da du tok et valg?",
     "answer": "**Alternativkostnad** — den reelle prisen på enhver beslutning inkluderer alltid det du ikke valgte."
   },
   {
-    "topic": "økonomi",
+    "topic": "samfunnsøkonomi",
     "question": "Hva heter prisstrategien der det billige produktet låser deg inn i dyre forbruksvarer for alltid?",
     "answer": "**Barberblad-modellen** — selg håndtaket billig, ta profitten på bladene. Skrivere og blekkpatroner er et klassisk eksempel."
   },
   {
-    "topic": "økonomi",
+    "topic": "samfunnsøkonomi",
     "question": "Hva kalles en kostnad som allerede er betalt og ikke kan gjenvinnes, uansett hva du gjør videre?",
     "answer": "**Sunket kostnad** — rasjonelt sett burde den ikke påvirke fremtidige beslutninger, men det gjør den nesten alltid."
   },
@@ -150,27 +150,27 @@
     "answer": "**Lillehjernen** — den kansellerer sansninger den selv forårsaket, så selvberøring aldri føles overraskende."
   },
   {
-    "topic": "psykologi",
+    "topic": "hjernen og sånn",
     "question": "Hva er termen for å oppsøke informasjon som bekrefter det du allerede tror?",
     "answer": "**Bekreftelsesbias** — en av de mest dokumenterte og vanskeligste kognitive skjevhetene å rette opp."
   },
   {
-    "topic": "psykologi",
+    "topic": "hjernen og sånn",
     "question": "Hva kalles regelen om at du husker det beste øyeblikket og avslutningen — ikke hvor lenge noe varte?",
     "answer": "**Topp-slutt-regelen** — en smertefull prosedyre oppleves bedre om den slutter med mild ubehag enn å kutte ved peak-smerte."
   },
   {
-    "topic": "psykologi",
+    "topic": "hjernen og sånn",
     "question": "Hva er feilen der vi skylder andres handlinger på personligheten, men våre egne på omstendighetene?",
     "answer": "**Fundamental attribusjonsfeil** — vi ser andres atferd uten kontekst, men kjenner alle egne unnskyldninger."
   },
   {
-    "topic": "psykologi",
+    "topic": "hjernen og sånn",
     "question": "Hva kalles effekten der det å fortelle andre om målet ditt gjør deg mindre tilbøyelig til å nå det?",
     "answer": "**Sosial substitusjon** — hjernen din får en smak av identitetsfølelsen før du har gjort selve arbeidet."
   },
   {
-    "topic": "psykologi",
+    "topic": "hjernen og sånn",
     "question": "Hva er termen for å tilpasse seg gruppens mening selv om du privat er uenig?",
     "answer": "**Konformitet** — Aschs eksperimenter viste at folk nektet for åpenbare sannheter bare for å passe inn med fremmede."
   },
@@ -230,12 +230,12 @@
     "answer": "**Solipsisme** — logisk vanskelig å motbevise, noe som er akkurat det som gjør det irriterende."
   },
   {
-    "topic": "nevrovitenskap",
+    "topic": "hjernen og sånn",
     "question": "Hva kalles det lille gapet mellom to nerveceller som et signal må hoppe over?",
     "answer": "**Synapse** — signalet krysser det kjemisk via nevrotransmittere, ikke som en elektrisk strøm."
   },
   {
-    "topic": "nevrovitenskap",
+    "topic": "hjernen og sånn",
     "question": "Hva er termen for hjernens evne til å fysisk koble seg om basert på erfaring?",
     "answer": "**Nevroplastisitet** — London-taxisjåfører har en målbart større hippocampus fra å memorere byens gater."
   },
@@ -250,12 +250,12 @@
     "answer": "**Onomatopoetikon** — alle språk har dem, og de er overraskende like på tvers av helt urelaterte språk."
   },
   {
-    "topic": "spillteori",
+    "topic": "samfunnsøkonomi",
     "question": "Hva kalles situasjonen der to spillere begge velger det dårligste utfallet fordi de ikke stoler på hverandre?",
     "answer": "**Fangens dilemma** — to mistenkte som ikke kan kommunisere tilstår begge, selv om taushet ville hjulpet dem begge."
   },
   {
-    "topic": "spillteori",
+    "topic": "samfunnsøkonomi",
     "question": "Hva er termen for en strategi som er det beste svaret uansett hva motstanderen gjør?",
     "answer": "**Dominerende strategi** — har du en, bør du alltid spille den, uavhengig av hva den andre siden gjør."
   }
