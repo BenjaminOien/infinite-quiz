@@ -1,0 +1,187 @@
+[
+  {
+    "topic": "physics",
+    "question": "Why does time pass slower for GPS satellites than clocks on Earth's surface?",
+    "answer": "Special relativity slows clocks moving at high speed; this nearly cancels the gravitational time dilation that speeds them up from being higher in Earth's gravity well — but speed wins slightly, so GPS clocks run slow overall."
+  },
+  {
+    "topic": "physics",
+    "question": "Why can't you simultaneously know a particle's exact position and momentum?",
+    "answer": "Measuring position requires interacting with the particle using a wave, which inherently spreads momentum uncertainty. The finer you localize the particle, the more wavelengths (momenta) you need — it's a mathematical consequence of wave physics, not a measurement limitation."
+  },
+  {
+    "topic": "physics",
+    "question": "Why does a ball thrown upward slow down, stop, and return — but light never slows down?",
+    "answer": "Mass converts kinetic energy to potential energy as it climbs, which can be reclaimed. Light has no rest mass and no internal energy reservoir, so it cannot trade speed for height — it loses energy instead by red-shifting."
+  },
+  {
+    "topic": "physics",
+    "question": "Why does a gyroscope resist falling over instead of just tipping?",
+    "answer": "Gravity applies a torque on the gyroscope's axis. Because angular momentum resists direction changes, the axis turns perpendicular to the applied torque — it precesses around the vertical rather than falling."
+  },
+  {
+    "topic": "physics",
+    "question": "Why is the sky blue but sunsets red?",
+    "answer": "Air molecules scatter short (blue) wavelengths far more than long (red) ones. At midday, scattered blue light fills the sky; at sunset, light travels through much more atmosphere, scattering away all blue and leaving only red."
+  },
+  {
+    "topic": "economics",
+    "question": "Why can trade make both countries richer even if one produces everything more efficiently?",
+    "answer": "Comparative advantage: each country gains by specializing in what it gives up least to produce, then trading. Total output rises because specialization lets each allocate effort where its opportunity cost is lowest."
+  },
+  {
+    "topic": "economics",
+    "question": "Why do diamonds cost more than water even though water is essential for life?",
+    "answer": "Price is set by marginal utility, not total utility. Water is so abundant that one extra unit adds little value; diamonds are scarce, so the marginal unit is highly valued despite water being vastly more useful overall."
+  },
+  {
+    "topic": "economics",
+    "question": "Why does adding a third irrelevant option often change which of two options people prefer?",
+    "answer": "The decoy effect: a dominated option shifts reference points, making one of the original choices look more attractive by comparison. Preferences aren't stable — they're constructed relative to available alternatives."
+  },
+  {
+    "topic": "economics",
+    "question": "Why do companies give away razors cheaply but charge high prices for blades?",
+    "answer": "Razor-and-blade pricing locks customers into a proprietary ecosystem. Once you own the handle, switching is costly, so the company extracts profit from the consumable. The durable good is priced as customer acquisition."
+  },
+  {
+    "topic": "economics",
+    "question": "Why does rent control often cause housing shortages in the long run?",
+    "answer": "Capping rents below market price increases demand while reducing landlords' incentive to supply or maintain units. Over time, supply shrinks and quality falls — the policy helps current tenants but harms future ones."
+  },
+  {
+    "topic": "biology",
+    "question": "Why do humans get goosebumps when cold or scared, even though it doesn't help us?",
+    "answer": "We inherited it from furry ancestors: erecting hairs trapped insulating air and made animals look larger to predators. The piloerection reflex is still wired into our nervous system, though hairless skin makes it useless."
+  },
+  {
+    "topic": "biology",
+    "question": "Why can't we tickle ourselves?",
+    "answer": "The cerebellum predicts and cancels the sensory consequences of self-generated touch. Tickling requires surprise; your brain already knows what your own hands will do, so it suppresses the tickle response before it registers."
+  },
+  {
+    "topic": "biology",
+    "question": "Why do we yawn, and why is it contagious?",
+    "answer": "Yawning likely cools the brain by increasing blood flow and drawing in cool air. Contagious yawning activates empathy circuits — it's stronger between people who know each other, suggesting a social bonding function."
+  },
+  {
+    "topic": "biology",
+    "question": "Why does the appendix exist if its removal has no apparent downside?",
+    "answer": "It likely serves as a bacterial reservoir to repopulate the gut after diarrheal illness. In populations with high gut-flora disruption, it may still be adaptive — its uselessness in modern medicine doesn't mean it was always useless."
+  },
+  {
+    "topic": "biology",
+    "question": "Why do cells in your body die on schedule rather than living as long as possible?",
+    "answer": "Programmed cell death (apoptosis) removes damaged or pre-cancerous cells before they mutate further. Sacrificing individual cells protects the whole organism — a cell that refuses to die is called cancer."
+  },
+  {
+    "topic": "psychology",
+    "question": "Why do people remember the peak and end of an experience, not its total duration?",
+    "answer": "The peak-end rule: memory compresses experiences into two snapshots — the most intense moment and the final one. Duration is largely ignored, which is why a shorter but more pleasant ending can make an overall experience feel better."
+  },
+  {
+    "topic": "psychology",
+    "question": "Why do people conform to group beliefs even when they privately disagree?",
+    "answer": "Asch's conformity research shows that social pain from disagreement activates the same brain regions as physical pain. Conformity isn't just social pressure — it can genuinely alter perception, not just reported answers."
+  },
+  {
+    "topic": "psychology",
+    "question": "Why does explaining a plan often reduce your motivation to execute it?",
+    "answer": "Telling others about a goal gives your brain a premature sense of identity completion. The social recognition substitutes for actual achievement, reducing the drive that would otherwise motivate follow-through."
+  },
+  {
+    "topic": "psychology",
+    "question": "Why do people attribute others' failures to character but their own to circumstances?",
+    "answer": "Fundamental attribution error: when observing others, we see their behavior without context, so we attribute it to personality. For ourselves, we have rich access to situational pressures that explain the same behavior differently."
+  },
+  {
+    "topic": "psychology",
+    "question": "Why does being watched — even by a picture of eyes — make people behave more honestly?",
+    "answer": "Our social brains evolved in small groups where reputation mattered enormously. Cues of being observed trigger costly-reputation-management instincts, even when we consciously know no real observer is present."
+  },
+  {
+    "topic": "mathematics",
+    "question": "Why is 0.999... exactly equal to 1, not just approaching it?",
+    "answer": "The difference between 1 and 0.999... would need to be a positive number, but no such number exists. Any supposed gap is smaller than any real number you can name, so the difference is exactly zero."
+  },
+  {
+    "topic": "mathematics",
+    "question": "Why are there more real numbers than integers, even though both sets are infinite?",
+    "answer": "Cantor's diagonal argument shows you can always construct a real number not in any countable list — so the reals are a 'larger' infinity. The integers are countably infinite; the reals are uncountably infinite."
+  },
+  {
+    "topic": "mathematics",
+    "question": "Why can't you trisect an arbitrary angle using only a compass and straightedge?",
+    "answer": "Compass-and-straightedge constructions can only produce numbers satisfying polynomial equations of degree 2^n. Trisecting an angle requires solving a cubic — which lies outside that algebraic family entirely."
+  },
+  {
+    "topic": "evolution",
+    "question": "Why do males of many species die after mating, rather than surviving to mate again?",
+    "answer": "If the environment is harsh or the offspring need no paternal care, evolution favors putting all energy into one explosive reproductive event. Surviving afterward offers no fitness gain, so longevity isn't selected for."
+  },
+  {
+    "topic": "evolution",
+    "question": "Why do humans have a blind spot in their vision that octopuses don't?",
+    "answer": "Vertebrate eyes evolved with photoreceptors pointing backward — the wiring exits through the retina, creating a hole. Cephalopod eyes evolved independently with photoreceptors forward-facing, so no such wiring gap exists."
+  },
+  {
+    "topic": "evolution",
+    "question": "Why does altruism exist if evolution favors selfish genes?",
+    "answer": "Kin selection: helping relatives propagates shared genes even without personal reproduction. Reciprocal altruism also works in repeated-interaction environments — cooperators outcompete defectors when reputation matters."
+  },
+  {
+    "topic": "chemistry",
+    "question": "Why does ice float on water, unlike almost every other solid in its liquid?",
+    "answer": "Water molecules form a hexagonal hydrogen-bond lattice in ice that is less dense than the disordered liquid. Most substances contract on freezing; water expands — a quirk that makes aquatic life survivable in cold climates."
+  },
+  {
+    "topic": "chemistry",
+    "question": "Why does mixing alcohol and water get hot, even though no chemical bonds break or form?",
+    "answer": "Hydrogen bonds between ethanol and water molecules are stronger than the interactions within each pure liquid. Forming these new bonds releases energy as heat — a thermodynamic win without any reaction occurring."
+  },
+  {
+    "topic": "chemistry",
+    "question": "Why do noble gases almost never react with other elements?",
+    "answer": "Their outer electron shells are completely full, leaving no energetic incentive to gain, lose, or share electrons. Reactivity requires asymmetric electron arrangements — noble gases have none."
+  },
+  {
+    "topic": "philosophy",
+    "question": "Why is it paradoxical to claim 'this statement is false'?",
+    "answer": "If the statement is true, then it correctly says it's false — contradiction. If it's false, then its claim is correct, making it true — again a contradiction. Self-referential truth claims can't be consistently assigned a truth value."
+  },
+  {
+    "topic": "philosophy",
+    "question": "Why does knowing an action is determined by prior causes not obviously resolve whether you're free?",
+    "answer": "Compatibilists argue freedom means acting from your own reasons, not randomness — determinism doesn't prevent this. Hard determinists counter that if causes compel the act, the 'you' doing the reasoning was itself caused. The debate turns on what 'could have done otherwise' means."
+  },
+  {
+    "topic": "neuroscience",
+    "question": "Why do memories feel vivid immediately after formation but fade unless reinforced?",
+    "answer": "New memories are fragile protein networks that require repeated reactivation to consolidate into stable synaptic connections. Sleep plays a critical role — hippocampal replay during slow-wave sleep transfers memories to cortex."
+  },
+  {
+    "topic": "neuroscience",
+    "question": "Why does pain sometimes feel delayed after an injury?",
+    "answer": "Fast A-delta fibers carry sharp, immediate pain; slow C-fibers carry dull, aching pain that arrives seconds later. The two signals travel the same nerve but at different speeds, arriving at the brain as two distinct waves."
+  },
+  {
+    "topic": "linguistics",
+    "question": "Why do all human languages share similar grammatical structures despite huge surface differences?",
+    "answer": "Chomsky proposed a Universal Grammar — an innate mental template constraining possible languages. Alternatively, convergent cognitive constraints (how humans process sequences, referents, events) may independently push all languages toward similar solutions."
+  },
+  {
+    "topic": "linguistics",
+    "question": "Why do children acquire language without formal instruction and despite hearing imperfect, fragmented speech?",
+    "answer": "The poverty of the stimulus: input alone is too sparse and noisy to learn language inductively. Children must bring pre-wired constraints that rule out vast grammatical hypotheses, converging on correct grammar from limited evidence."
+  },
+  {
+    "topic": "game theory",
+    "question": "Why do two competing firms both advertise heavily even when neither gains market share?",
+    "answer": "It's a prisoner's dilemma: each firm's best response is to advertise regardless of what the rival does, but both advertising leaves them where they started — only with higher costs. Unilateral restraint just loses market share."
+  },
+  {
+    "topic": "game theory",
+    "question": "Why do people vote even when their individual vote is almost certain not to change the outcome?",
+    "answer": "Voting is partly expressive and partly about crossing a participation threshold. Game-theoretically, rational non-voting unravels if everyone reasons the same way — so voting equilibria are maintained by social norms and identity, not expected impact."
+  }
+]
