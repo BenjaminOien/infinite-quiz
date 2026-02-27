@@ -1,3 +1,18 @@
+// Topics that have curated seed questions
+export const SEED_TOPICS = [
+  "physics",
+  "economics",
+  "biology",
+  "psychology",
+  "mathematics",
+  "evolution",
+  "chemistry",
+  "philosophy",
+  "neuroscience",
+  "linguistics",
+  "game theory",
+]
+
 export const TOPICS = [
   "physics",
   "economics",
